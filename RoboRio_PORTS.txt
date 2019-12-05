@@ -1,0 +1,24 @@
+   
+
+
+|----           ----|
+|   |           |   | 
+|   |           |   |
+|   |           |   | 
+|   |___________|   |
+|                   |
+|    2         3    |
+|                   |
+|                   |
+|    0         1    |
+|___________________|
+
+     Motor:            Puerto:
+
+Izquierdo Traseo          0
+
+Derecho Trasero           1
+
+Izquierdo Frontal         2
+
+Derecho Frontal           3
