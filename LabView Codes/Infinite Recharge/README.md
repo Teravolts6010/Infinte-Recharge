@@ -1,2 +1,0 @@
-# Infinite Recharge
-StarWars
