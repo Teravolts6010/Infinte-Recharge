@@ -1,0 +1,30 @@
+   
+
+
+|----           ----|
+|   |           |   | 
+|   |           |   |
+|   |           |   | 
+|   |___________|   |
+|                   |
+|    2         3    |
+|                   |
+|                   |
+|    0         1    |
+|___________________|
+
+     Motor:            Puerto:           Potencia:
+
+Izquierdo Trasero         0
+
+Derecho Trasero           1
+
+Izquierdo Frontal         2
+
+Derecho Frontal           3
+
+Lanzadores                4 & 5           100%
+
+Recogedor                 6                80%
+
+
